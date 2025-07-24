@@ -1,2 +1,11 @@
-# simple-rfc
-In this project I worked on binary classififcation problem.I used Random Forest Classification to solve problem.I worked with British Airways dataset which contains callbacks of their customers. I tried to construct classificator that predicts whether customers liked or not their service and find important features to prevent loss of cutomers.
+# ✈️ British Airways Callback Classification
+
+**Project Type**: Binary Classification  
+**Model Used**: Random Forest Classifier  
+**Goal**: Predict customer satisfaction and identify key factors leading to dissatisfaction.
+
+---
+
+## 📄 Overview
+
+This project tackles a **binary classification** problem using customer callback data from **British Airways**. The objective is to build a model that predicts whether a customer was satisfied with their service based on feedback features — helping the airline reduce churn and improve quality of service.
